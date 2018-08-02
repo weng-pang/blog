@@ -8,7 +8,10 @@ It should not be used for any deployment
 
 This application contains a few important elements which are useful for future application development.
 
-#### Functionality List
+## Functionality List
 This list provides a basic overview on functionaries, further expansion will be necessary 
-- Google Login (GSuite)
-- PDF generation (TCPDF?)
+1. Google Login (GSuite)
+2. PDF generation (TCPDF?)
+
+## Detailed Functionality Description
+Each Function mentioned in the Functionality List will have its own detailed explanation.
