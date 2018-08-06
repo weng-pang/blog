@@ -28,7 +28,7 @@
         }
     },
     "scripts": {
-        "post-root-package-install": [
+        "pre-install-cmd": [
             "php -r \"file_exists('.env') || copy('.env.example', '.env');\""
         ],
         "post-create-project-cmd": [
